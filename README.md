@@ -13,6 +13,7 @@
 3. Git 계정에서 새로운 Project 를 생성해 줍니다.
 		- 본인의 Git 저장소 주소가 생성됩니다.
 3. 본인의 드라이브에 Git을 연동할 폴더를 만들어줍니다.
+# Git 에 파일 추가/편집 -- Commit
 4. cmd 창에서 'cd' 명령어를 통해 연동폴더를 찾아간 후에 본인의 Git 저장소 주소를 입력해 연동해줍니다.
 		- git clone 저장소주소
 5. 'cd' 명령어를 통해 연동된 저장소 폴더를 찾아가 git status 를 통해 생성/수정 된 파일 정보를 확인합니다.
@@ -27,7 +28,7 @@
 9. 마지막으로 git push 를 통해 Git 허브인 Repository 의 작업 결과물을 push 해줍니다.
 		- git push
 		- git stats > git add 'something' > git commit > git push 의 루트로 파일을 생성/수정/공유 해줍니다.
-#
+# Git 의 브렌치를 통한 협업 Play -- Branch
 10. 저장소 폴더에서 git branch 를 통해 자신의 branch 를 확인합니다.
 		- Branch : 협업이 가능하도록 하는 가지. Master 브렌치를 두고 본인의 브렌치에서 작업한 결과물을 최종적으로 Master 브렌치에 Merge 시키는 식으로 협업이 진행된다.
 		- git branch
